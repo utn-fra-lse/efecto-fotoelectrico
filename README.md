@@ -26,7 +26,7 @@
 
 ### Fórmulas Clave:
 
-- \( E_f = h \cdot f \)  
+- $( E_f = h \cdot f )$  
 - \( hf = W + E_c \)  
 - \( U_0 = \frac{h}{q}f - U_a \)
 
