@@ -5,7 +5,7 @@
 # TP #2 – Efecto Fotoeléctrico
 
 **Física Electrónica – UTN FRA**  
-**Docentes:** MSc. Ing. Edgardo Porral, Ing. Gerardo Bataglia, Ing. Iván Reyes, Ing. Alfredo Rivas
+
 
 ---
 
