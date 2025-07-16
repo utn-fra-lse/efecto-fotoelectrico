@@ -27,8 +27,8 @@
 ### Fórmulas Clave:
 
 - $( E_f = h \cdot f )$  
-- \( hf = W + E_c \)  
-- \( U_0 = \frac{h}{q}f - U_a \)
+- $( hf = W + E_c )$  
+- $( U_0 = \frac{h}{q}f - U_a )$
 
 ---
 
@@ -54,9 +54,9 @@
 ## 📈 Resultados Experimentales
 
 1. Existe una **frecuencia umbral** \( f_0 \) para cada material.
-2. \( i = f(I) \): la corriente depende de la intensidad.
-3. \( E_c \neq f(I) \): la energía cinética no depende de la intensidad.
-4. \( E_c = f(f) \): la energía cinética depende de la frecuencia.
+2. $( i = f(I) )$: la corriente depende de la intensidad.
+3. $( E_c \neq f(I) )$: la energía cinética no depende de la intensidad.
+4. $( E_c = f(f) )$: la energía cinética depende de la frecuencia.
 5. El retardo en la emisión es **casi instantáneo** (∼1 ns).
 
 ---
